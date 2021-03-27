@@ -1,55 +1,46 @@
-body{
-    background-color: black;
-    color: white;
-    font-family: "Verdana";
-    
+body {
+  background-color: black;
+  color: white;
+  font-family: "Verdana";
+  text-align: center;
 }
 
-header{
-    font-size: 50px;
-    text-align: center;
+header {
+  font-size: 50px;
 }
 
-a{
-    color: aquamarine;
-    font-size: 16px;
-    text-align: center;
+a {
+  color: aquamarine;
+  font-size: 16px;
 }
 
-.header-2{
-    font-weight: 300;
-    font-size: 42px;
-    text-align: center;
+.header-2 {
+  font-weight: 300;
+  font-size: 42px;
 }
 
-.header2-text{
-    font-size: 21px;
-    color: grey;
-    text-align: center;
+.header2-text {
+  font-size: 21px;
+  color: grey;
 }
 
-img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.header-3{
-    font-weight: 300;
-    font-size: 42px;
-    text-align: center;
+.header-3 {
+  font-weight: 300;
+  font-size: 42px;
 }
 
-.link1{
-    text-align: center;
+footer {
+  text-align: right;
+  color: grey;
 }
 
-footer{
-    text-align: right;
-    color: grey;
-}
-
-video{
-    margin-left: auto;
-    margin-right: auto;
+video {
+  margin-left: auto;
+  margin-right: auto;
 }
